@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "hoc node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToanNguyenSMD/nodejs_blog.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "toan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToanNguyenSMD/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/ToanNguyenSMD/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
