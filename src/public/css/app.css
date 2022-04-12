@@ -1,5 +1,14 @@
 h1 {
-  color: red; }
+  color: red;
+}
 
 h2 {
-  color: green; }
+  color: green;
+}
+
+.user-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
